@@ -1,2 +1,2 @@
 # Encoder
-some autoencoder stuff
+These are some autoencoder architectures and visualization 
